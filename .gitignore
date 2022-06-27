@@ -1,0 +1,9 @@
+.terraform/
+*.backup
+*.hc1
+*.tfvars
+*.tfstate
+*.out
+*.info
+azure-key*
+azure-key*
